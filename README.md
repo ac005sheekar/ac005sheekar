@@ -3,7 +3,8 @@
  
 - Since 2020, I have worked with various Multi-National Companies (MNC) based in United Kingdom, United States and Croatia.
 - I have been working in the field of AI, Robotics and IOT since 2016.
-- I won several National and International Technological Contests.
+- 
+- I won 3 National Technological Contests and participated in severals National and International Hackathons with success since 2018.
 - 👀 I’m interested in Robotics, Computer Vision, Medical Image Computing, Internet of Things (IOT), Sensors, Natural Language Processing (NLP)
 
 - 📫 Linkedin: https://www.linkedin.com/in/sheekar-banerjee-6b189b12a/
