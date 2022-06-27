@@ -1,4 +1,4 @@
-- 👋  I’m Sheekar Banerjee. 
+- 👋  Hi there, I’m Sheekar Banerjee. 
 - I am a Senior Software Engineer of Artificial Intelligence and Machine Learning (AI & ML). 
  
 - Since 2020, I have worked with various Multi-National Companies (MNC) based in United Kingdom, United States and Croatia.
