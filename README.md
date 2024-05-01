@@ -1,7 +1,7 @@
 - 👋  Hi there... I’m Sheekar Banerjee. 
 - I am a Senior Software Engineer of Artificial Intelligence and Machine Learning (AI & ML). 
  
-- Since 2020, I have worked with various Multi-National Companies (MNC) based in United Kingdom, United States and Croatia.
+- Since 2020, I have worked with various Multi-National Companies (MNC) based in United Kingdom, United States, Croatia and South Korea.
 - I have been working in the field of AI, Robotics and IOT since 2016.
 - I won "Best Paper Award" from world famous Springer-Nature affiliated International AI Conference MIDAS 2021.
 - I won 3 National Technological Contests and participated in several National and International Hackathons with success since 2018.
