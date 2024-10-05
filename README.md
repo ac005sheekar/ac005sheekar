@@ -1,5 +1,6 @@
-- 👋  Hi there... I’m Sheekar Banerjee. 
-- I am a Senior Software Engineer of Artificial Intelligence and Machine Learning (AI & ML). 
+- 👋  Hi there... I’m Sheekar Banerjee.
+- I am a Lecturer of Computer Science and Engineering at IUBAT, Dhaka, Bangladesh.
+- I have been a Senior Software Engineer of Artificial Intelligence and Machine Learning (AI & ML). 
  
 - Since 2020, I have worked with various Multi-National Companies (MNC) based in United Kingdom, United States, Croatia and South Korea.
 - I have been working in the field of AI, Robotics and IOT since 2016.
